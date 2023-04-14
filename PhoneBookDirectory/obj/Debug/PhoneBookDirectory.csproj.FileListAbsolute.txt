@@ -1,0 +1,21 @@
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\bin\Debug\PhoneBookDirectory.exe.config
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\bin\Debug\PhoneBookDirectory.exe
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\bin\Debug\PhoneBookDirectory.pdb
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.csproj.AssemblyReference.cache
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.Properties.Resources.resources
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.csproj.GenerateResource.cache
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.exe
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.pdb
+C:\Users\Bakht Muhammad\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.Form1.resources
+D:\source\repos\PhoneBookDirectory\bin\Debug\PhoneBookDirectory.exe.config
+D:\source\repos\PhoneBookDirectory\bin\Debug\PhoneBookDirectory.exe
+D:\source\repos\PhoneBookDirectory\bin\Debug\PhoneBookDirectory.pdb
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.csproj.AssemblyReference.cache
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.Form1.resources
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.Properties.Resources.resources
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.csproj.GenerateResource.cache
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.csproj.CoreCompileInputs.cache
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.exe
+D:\source\repos\PhoneBookDirectory\obj\Debug\PhoneBookDirectory.pdb
